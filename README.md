@@ -33,4 +33,4 @@ https://snk-99.github.io/Work-Day-Planner/
 
 ## screenshot
 
-05-Third-Party-APIs/02-Homework/Assets/05-third-party-apis-homework-demo.gif
+<img width="1440" alt="Screen Shot 2021-05-22 at 8 35 03 PM" src="https://user-images.githubusercontent.com/81891066/119244304-44680900-bb3d-11eb-8d7c-39dac7d9a408.png">
